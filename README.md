@@ -1,6 +1,6 @@
 # SQL
 
-### [Course Link] (https://www.w3schools.com/sql/)
+### [Course Link](https://www.w3schools.com/sql/)
 
 ## What is SQL?
 * SQL stands for Structured Query Language
