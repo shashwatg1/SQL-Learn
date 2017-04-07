@@ -51,9 +51,9 @@
 
 ## Create a New MySQL User and Database
 testdb is the name of the database, testuser is the user, and password is the user’s password.<br>
-> create database testdb;
-> create user 'testuser'@'localhost' identified by 'password';
-> grant all on testdb.* to 'testuser';
+> create database testdb; <br>
+> create user 'testuser'@'localhost' identified by 'password'; <br>
+> grant all on testdb.* to 'testuser'; <br>
 > exit
 
 alternate: <br>
