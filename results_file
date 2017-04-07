@@ -1,0 +1,26 @@
+id	state	population
+1	Alaska	731449
+2	Arizona	6553255
+3	Arkansas	2949131
+4	Alabama	731202
+5	abc	731449
+6	xyz	6553255
+7	sadas	731449
+8	sadd	6553255
+9	sadas	731449
+10	sadd	6553255
+11	new	731449
+12	new	731449
+state	population
+Arizona	6553255
+sadd	6553255
+xyz	6553255
+sadd	6553255
+Arkansas	2949131
+Alaska	731449
+new	731449
+sadas	731449
+sadas	731449
+abc	731449
+new	731449
+Alabama	731202
